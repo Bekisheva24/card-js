@@ -9,7 +9,9 @@ wrapper.id = "wrapper";
 wrapper.style.maxWidth = "1440px";
 wrapper.style.margin = "100px auto";
 wrapper.style.display = "flex";
-wrapper.style.justifyContent = "space-around";
+wrapper.style.flexWrap = "wrap";
+wrapper.style.gap = "30px";
+wrapper.style.justifyContent = "center";
 
 
 
@@ -151,5 +153,6 @@ function creatCard() {
 
 creatCard();
 creatCard();
+
 alert("Я оцениваю свою работу на 100 баллов))");
 
