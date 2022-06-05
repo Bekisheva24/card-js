@@ -154,5 +154,5 @@ function creatCard() {
 creatCard();
 creatCard();
 
-alert("Я оцениваю свою работу на 100 баллов))");
+alert("Я оцениваю свою работу на 100 бфллов))!");
 
